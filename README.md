@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there, this is Remy's Github page 👋
 
 I'm a software developer with a background in Electrical Engineering. <br />
 <br />
-Check out my projects!<br />
+Check out my projects and study examples!<br />
 
 <!--
 **jibjab1337/jibjab1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
