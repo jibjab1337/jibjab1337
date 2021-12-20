@@ -2,7 +2,7 @@
 
 I'm a software developer with a background in Electrical Engineering. <br />
 <br />
-Check out my projects and study examples!<br />
+Check out my projects and work!<br />
 
 <!--
 **jibjab1337/jibjab1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
